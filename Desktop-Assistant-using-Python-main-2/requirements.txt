@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+wikipedia
+streamlit
+pipwin
+gTTS
+google-generativeai
+
+AIzaSyDESru5KRYmOtwrJ-APxeM8ln34kJJ9pIo # api key 
